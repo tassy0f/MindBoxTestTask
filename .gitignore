@@ -1,0 +1,8 @@
+# Build artefacts
+/bin
+**/obj
+**/bin
+
+#IDE
+/.vs
+*user
